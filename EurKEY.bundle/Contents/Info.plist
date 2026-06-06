@@ -6,8 +6,6 @@
 		<string>com.apple.keyboardlayout.eurkey</string>
 		<key>KLInfo_EurKEY</key>
 		<dict>
-			<key>TICapsLockLanguageSwitchCapable</key>
-			<true/>
 			<key>TISIconIsTemplate</key>
 			<true/>
 			<key>TISIntendedLanguage</key>
